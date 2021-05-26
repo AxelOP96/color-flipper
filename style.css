@@ -1,0 +1,9 @@
+h3{
+    color:rgba(14, 75, 167, 0.74);
+}
+.nav-center{
+    width:100%;
+    height:100px;
+    display:flex;
+    
+}
