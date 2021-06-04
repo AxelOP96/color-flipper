@@ -29,3 +29,5 @@ btn.addEventListener('click', () => {
 function getRandomNumber() {
     return Math.floor(Math.random() * colors.length);
 }
+  La aplicacion se encuentra en esta pagina:
+  https://color-flipper-delta.vercel.app/
